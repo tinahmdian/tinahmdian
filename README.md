@@ -24,6 +24,7 @@ Front-End Developer specializing in **React.js** & **Next.js**, focused on build
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/-Leaflet.js-199900?style=flat&logo=leaflet&logoColor=white)
+
 **Tools & Testing**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
